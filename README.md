@@ -42,14 +42,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="55" alt="raspberrypi logo"  />
 </div>
 
-###
-
-<h1 align="left"></h1>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Evannn">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Evannn&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
